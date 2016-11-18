@@ -19,7 +19,7 @@ body {
 	height: 100%;
   	margin: 0;
   	padding: 0;
-  color: green;
+    color: green;
     background-color: green;
 	display: flex; 
 	justify-content: center;
@@ -28,8 +28,4 @@ body {
 }
 .vetur h1 {
 	font-size: 5em;
-	color: #ffa;
-}
-.vetur{
-	color: green;
 }
