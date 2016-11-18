@@ -19,7 +19,8 @@ body {
 	height: 100%;
   	margin: 0;
   	padding: 0;
-  
+  color: green;
+    background-color: green;
 	display: flex; 
 	justify-content: center;
 	align-items: center;
